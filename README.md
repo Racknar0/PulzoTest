@@ -21,5 +21,9 @@ Proyecto creado usando las tecnologías HTML, LESS, BOOSTRAP, CSS, JAVASCRIPT
       height="100" /> </a>
 
 
+-  Deployment :-
+<a href="https://pulzo-test.netlify.app/" target="_blank"
+    rel="noreferrer">https://pulzo-test.netlify.app/</a>
+
 
 
